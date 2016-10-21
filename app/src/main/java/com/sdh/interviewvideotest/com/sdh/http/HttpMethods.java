@@ -3,11 +3,8 @@ package com.sdh.interviewvideotest.com.sdh.http;
 
 import com.sdh.interviewvideotest.MovieService;
 import com.sdh.interviewvideotest.com.sdh.exception.ApiException;
-
-
 import java.util.List;
 import java.util.concurrent.TimeUnit;
-
 import okhttp3.OkHttpClient;
 import retrofit2.Retrofit;
 import retrofit2.adapter.rxjava.RxJavaCallAdapterFactory;
